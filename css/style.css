@@ -1,0 +1,63 @@
+.fondoGris{
+    background: #fafafa;
+}
+
+.azul{
+    color:#05288b !important;
+}
+
+.blanco{
+    color:#ffffff !important;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.fondoAzul{
+    background:#000000 !important;
+}
+
+.fondoAzul2{
+    background:#05288b !important;
+}
+
+
+.imgObjetivos{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.gris{
+    color:#808080;
+}
+
+ul, ul li{
+    list-style: none;
+}
+
+.font40{
+    font-size: 40px;
+}
+
+.padding1{
+    padding: 1%;
+}
+
+.condicionImg{
+    width: 100%;
+}
+
+.rojo{
+    color: darkred;
+}
+
+.input90{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.bold{
+    font-weight: bold;
+}
